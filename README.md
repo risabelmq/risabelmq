@@ -12,7 +12,6 @@ Hi there! 👋 I'm Rita, a Software Developer with a Creative Twist!<br><br>With
   <img src="https://github-readme-stats.vercel.app/api?username=risabelmq&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" width="400" height="250"/>
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=risabelmq&theme=buefy&hide_border=false" width="400" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risabelmq&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="250"/>
+
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=risabelmq&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
